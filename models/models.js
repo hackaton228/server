@@ -103,4 +103,6 @@ module.exports = {
   Rating,
   TypeBrand,
   ProductInfo: ProductInfo,
+  Category,
+  SubCategory
 };
